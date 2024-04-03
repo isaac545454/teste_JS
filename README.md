@@ -1,4 +1,4 @@
-> ## FOTOS
+> ## RESULTADO
 ![CONTAINER](./results/list.png)
 ![CONTAINER](./results/header.png)
 ![CONTAINER](./results/List_active.png)
